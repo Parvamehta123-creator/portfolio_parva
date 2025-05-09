@@ -1,4 +1,4 @@
 [build]
-  base = "final/portfolio_parva/parv-folio-creator-main"
+  base = parv-folio-creator-main"
   publish = "dist"
   command = "npm run build"
